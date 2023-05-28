@@ -1,2 +1,1 @@
-# achievements
-A collection of all my achievements
+# A collection of all my achievements
