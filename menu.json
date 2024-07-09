@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "category": "Main Course",
+    "price": 499.00
+  },
+  {
+    "name": "Caesar Salad",
+    "category": "Appetizer",
+    "price": 349.00
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "category": "Main Course",
+    "price": 699.00
+  },
+  {
+    "name": "Grilled Chicken Sandwich",
+    "category": "Main Course",
+    "price": 599.00
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "category": "Dessert",
+    "price": 399.00
+  },
+  {
+    "name": "French Fries",
+    "category": "Side",
+    "price": 199.00
+  },
+  {
+    "name": "Margarita",
+    "category": "Beverage",
+    "price": 499.00
+  },
+  {
+    "name": "Chicken Tacos",
+    "category": "Main Course",
+    "price": 599.00
+  },
+  {
+    "name": "Tomato Soup",
+    "category": "Appetizer",
+    "price": 249.00
+  },
+  {
+    "name": "Cheeseburger",
+    "category": "Main Course",
+    "price": 649.00
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "category": "Main Course",
+    "price": 399.00
+  },
+  {
+    "name": "Garlic Bread",
+    "category": "Side",
+    "price": 249.00
+  },
+  {
+    "name": "Pasta Alfredo",
+    "category": "Main Course",
+    "price": 549.00
+  },
+  {
+    "name": "Greek Salad",
+    "category": "Appetizer",
+    "price": 399.00
+  },
+  {
+    "name": "Brownie with Ice Cream",
+    "category": "Dessert",
+    "price": 299.00
+  },
+  {
+    "name": "Chicken Biryani",
+    "category": "Main Course",
+    "price": 499.00
+  },
+  {
+    "name": "Butter Naan",
+    "category": "Side",
+    "price": 49.00
+  },
+  {
+    "name": "Mango Lassi",
+    "category": "Beverage",
+    "price": 149.00
+  },
+  {
+    "name": "Veg Spring Rolls",
+    "category": "Appetizer",
+    "price": 199.00
+  },
+  {
+    "name": "Dal Makhani",
+    "category": "Main Course",
+    "price": 299.00
+  },
+  {
+    "name": "Chicken Wings",
+    "category": "Appetizer",
+    "price": 399.00
+  },
+  {
+    "name": "Tandoori Chicken",
+    "category": "Main Course",
+    "price": 699.00
+  },
+  {
+    "name": "Pineapple Juice",
+    "category": "Beverage",
+    "price": 149.00
+  },
+  {
+    "name": "Fish Curry",
+    "category": "Main Course",
+    "price": 599.00
+  },
+  {
+    "name": "Masala Dosa",
+    "category": "Main Course",
+    "price": 199.00
+  },
+  {
+    "name": "Egg Fried Rice",
+    "category": "Main Course",
+    "price": 299.00
+  },
+  {
+    "name": "Samosa",
+    "category": "Appetizer",
+    "price": 49.00
+  },
+  {
+    "name": "Lemon Tart",
+    "category": "Dessert",
+    "price": 199.00
+  },
+  {
+    "name": "Vegetable Korma",
+    "category": "Main Course",
+    "price": 349.00
+  },
+  {
+    "name": "Raita",
+    "category": "Side",
+    "price": 49.00
+  },
+  {
+    "name": "Mint Mojito",
+    "category": "Beverage",
+    "price": 199.00
+  },
+  {
+    "name": "Chicken Seekh Kebab",
+    "category": "Appetizer",
+    "price": 299.00
+  },
+  {
+    "name": "Mutton Rogan Josh",
+    "category": "Main Course",
+    "price": 749.00
+  },
+  {
+    "name": "Coke",
+    "category": "Beverage",
+    "price": 49.00
+  },
+  {
+    "name": "Prawn Curry",
+    "category": "Main Course",
+    "price": 699.00
+  },
+  {
+    "name": "Onion Rings",
+    "category": "Side",
+    "price": 149.00
+  },
+  {
+    "name": "Club Sandwich",
+    "category": "Main Course",
+    "price": 399.00
+  },
+  {
+    "name": "Apple Pie",
+    "category": "Dessert",
+    "price": 299.00
+  },
+  {
+    "name": "Veg Hakka Noodles",
+    "category": "Main Course",
+    "price": 249.00
+  },
+  {
+    "name": "Cold Coffee",
+    "category": "Beverage",
+    "price": 149.00
+  },
+  {
+    "name": "Paneer Tikka",
+    "category": "Appetizer",
+    "price": 299.00
+  },
+  {
+    "name": "Chicken Shawarma",
+    "category": "Main Course",
+    "price": 249.00
+  },
+  {
+    "name": "Iced Tea",
+    "category": "Beverage",
+    "price": 99.00
+  },
+  {
+    "name": "Aloo Paratha",
+    "category": "Main Course",
+    "price": 99.00
+  },
+  {
+    "name": "Pasta Arrabiata",
+    "category": "Main Course",
+    "price": 549.00
+  },
+  {
+    "name": "Fruit Salad",
+    "category": "Dessert",
+    "price": 149.00
+  },
+  {
+    "name": "Chole Bhature",
+    "category": "Main Course",
+    "price": 199.00
+  },
+  {
+    "name": "Gulab Jamun",
+    "category": "Dessert",
+    "price": 99.00
+  },
+  {
+    "name": "Veggie Burger",
+    "category": "Main Course",
+    "price": 249.00
+  },
+  {
+    "name": "Sweet Corn Soup",
+    "category": "Appetizer",
+    "price": 149.00
+  }
+]
